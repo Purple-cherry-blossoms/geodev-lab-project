@@ -1,2 +1,6 @@
-# geodev-lab-project
-Assessing the Impact of Excessive Rainfall on Road Infrastructure in Port Harcourt: A GIS-Based Comparative Analysis of 2025 and 2026.
+# GeoDev-lab-project
+
+How has excessive rainfall impacted Roads in Port Harcourt City within the span of 2025-2026? 
+
+Built over 12 months with GeoDev Lab Africa, Cohort One.
+See project-brief.md for the full brief.
