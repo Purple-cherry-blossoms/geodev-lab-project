@@ -36,4 +36,4 @@
 
 ## The Build
 
-An **interactive GIS dashboard** that maps rainfall-affected and high-risk roads in Port Harcourt, allowing an officer to compare road vulnerability between **2025 and 2026** and identify areas requiring attention.
+An **interactive GIS dashboard** that maps rainfall-affected and high-risk roads in Port Harcourt, allowing to compare road vulnerability between **2025 and 2026** and identify areas requiring attention.
