@@ -7,26 +7,22 @@
 ## The Data I Need
 
 * **Rainfall: NASA**
-  https://www.earthdata.nasa.gov/data/instruments/srtm-CSV-9.17kb
+  https://www.earthdata.nasa.gov/data/instruments/srtm — CSV — 9.17kb.
 
 * **Elevation: NASA**
-  https://www.earthdata.nasa.gov/search?keys=nigeria+elevation-SHP-1.32mb
+  https://www.earthdata.nasa.gov/search?keys=nigeria+elevation — SHP — 1.32mb.
 
 * **LGA & State Boundaries: GRID3**
-  https://data.grid3.org
-  **File:** SHP — 2.62 MB, 645 KB
+  https://data.grid3.org — SHP — 2.62 MB, 645 KB
 
 * **Settlements: GRID3**
-  https://data.grid3.org
-  **File:** SHP — 29.1 MB
+  https://data.grid3.org — SHP — 29.1 MB
 
 * **Land Use: COPERNICUS**
-  https://browser.dataspace.copernicus.eu/
-  **Format:** JPEG
+  https://browser.dataspace.copernicus.eu/ — JPEG —0.99 GB, 1.02 GB
 
 * **River: HYDROSHEDS**
-  https://www.hydrosheds.org/products/hydrorivers
-  **File:** SHP — 102 MB
+  https://www.hydrosheds.org/products/hydrorivers — SHP — 102 MB
 
 * **Roads**
 
