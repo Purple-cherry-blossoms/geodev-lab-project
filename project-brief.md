@@ -2,38 +2,36 @@
 
 ## The Question?
 
-**How has excessive rainfall impacted roads in Port Harcourt within the span of 2025–2026?**
+**How accessible are schools(Private/Public) to the majority of the population & school-age(under 18) children in areas(Port Harcourt LGA) where they reside?**
 
 ## The Data I Need
-
-* **Rainfall: NASA**
-  https://www.earthdata.nasa.gov/data/instruments/srtm — CSV — 9.17kb.
-
-* **Elevation: NASA**
-  https://www.earthdata.nasa.gov/search?keys=nigeria+elevation — SHP — 1.32mb.
-
 * **LGA & State Boundaries: GRID3**
   https://data.grid3.org — SHP — 2.62 MB, 645 KB
 
 * **Settlements: GRID3**
   https://data.grid3.org — SHP — 29.1 MB
+  
+* **Ward Boundaries: GRID3**
+ https://data.grid3.org — SHP — 187 MB
 
-* **Land Use: COPERNICUS**
-  https://browser.dataspace.copernicus.eu/ — JPEG —0.99 GB, 1.02 GB
+* **Population Data: WORLDPOP** Estimated
+https://hub.worldpop.org/geodata/summary?id=74735 — GEOTIFF — 149 MB, 150 MB
+ 
+* **School-Age Population: WORLDPOP**
+https://hub.worldpop.org/geodata/summary?id=74735 — GEOTIFF — 451 MB, 448 MB
 
-* **River: HYDROSHEDS**
-  https://www.hydrosheds.org/products/hydrorivers — SHP — 102 MB
+* **School Locations: GRID3**
+  https://data.grid3.org — SHP — 99.5 MB
 
-* **Roads**
-
-* **Soil Use**
+* **Roads Network**
+OpenStreetMap-SHP
 
 ## Why It Matters
 
-* To show whether road vulnerability to excessive rainfall has **increased, decreased, or remained similar** between 2025 and 2026.
-* To identify which roads are most vulnerable and show where **action or maintenance should be prioritised** across Port Harcourt.
-* To aid future **urban planning and construction**.
+* To identify areas where **school-age children** are concentrated but school provision is limited.
+* To aid in **educational planning and decision-making** by highlighting areas that may require additional schools or improved accessibility.
+* To show the spatial distribution of **public and private schools** and their accessibility to the surrounding population.
 
 ## The Build
 
-An **interactive GIS dashboard** that maps rainfall-affected and high-risk roads in Port Harcourt, allowing to compare road vulnerability between **2025 and 2026** and identify areas requiring attention.
+An **interactive GIS dashboard** that visualises the distribution of public and private schools in relation to population and school-age children in Port Harcourt LGA between 2025-2026, allowing users to assess accessibility, compare school coverage, and identify underserved areas.
