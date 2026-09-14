@@ -1,6 +1,6 @@
 # GeoDev-lab-project
 
-How has excessive rainfall impacted Roads in Port Harcourt City within the span of 2025-2026? 
+Are schools situated and easily accessible in the areas where the majority children of school-age reside?
 
 Built over 12 months with GeoDev Lab Africa, Cohort One.
 See project-brief.md for the full brief.
