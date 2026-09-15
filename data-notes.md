@@ -8,7 +8,7 @@
 -No nulls in lga_name.
 -Covers my LGA fully.
 
-##OSM roads extracted via QuickOSM
+## OSM roads extracted via QuickOSM
 -Query: highway=* within port harcourt lga
 -Extracted: 05-09-2026
 -7731 features, lines
