@@ -2,7 +2,7 @@
 
 ## The Question?
 
-**How accessible are schools(Private/Public) to the majority of the population & school-age(under 18) children in areas(Port Harcourt LGA) where they reside?**
+**How is the spatial accessibility of public and private schools distributed in relation to the school-age population of Port Harcourt Local Government Area?**
 
 ## The Data I Need
 * **LGA & State Boundaries: GRID3**
